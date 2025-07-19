@@ -22,17 +22,9 @@
 - Refactored backend with Parquet file support (↑ processing speed by 2x, ↓ storage by 60%)
 - Built secure CI/CD pipelines via Azure DevOps & YAML for production deployment
 
-#### 🧑‍💻 Annexorien Technology (Frontend Intern)
-- Built real-time tracking frontend using Figma + Socket.IO for live map updates
-- Improved tracking latency and UI responsiveness with dynamic React components
-
----
+#### 🧑‍💻 Annexorien Technology (Intern)
 
 ### 🚀 Projects
-
-#### 📝 Blogify
-- Full-stack blog app with Firebase, React, Express.js
-- Auth system, real-time DB updates, REST API integration (↑ UX by 30%)
 
 #### 📍 Live Location Detection System
 - Bi-directional communication with React, Node, and Socket.IO
