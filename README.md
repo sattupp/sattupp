@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Satya Prakash — Full Stack Developer (React | Node.js)</h1>
+<h1 align="center">👨‍💻 Satya </h1>
 
 <p align="center">
-  🎓 <strong>B.Tech CSE</strong>, Jaypee Institute of Information Technology (Aug’21–Aug’25)<br/>
+  🎓 <strong>B.Tech CSE</strong>, Jaypee Institute of Information Technology (Aug’21–June’25)<br/>
   💼 SDE Intern @ <strong>Milliman MedInsight</strong> | Frontend Intern @ <strong>Annexorien Technology</strong><br/>
   📧 <a href="mailto:prakashsatya76453@gmail.com">prakashsatya76453@gmail.com</a> | 📱 +91-9341228341 <br/>
   🌐 <a href="https://leetcode.com/satya">leetcode.com/satya</a>
