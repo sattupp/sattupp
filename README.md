@@ -73,14 +73,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sattupp&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sattupp&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ Fun Fact
 I enjoy building systems that **actually scale in real life**, not just projects 😄
