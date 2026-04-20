@@ -47,7 +47,7 @@
 
 ### 💼 Experience
 
-#### 🏢 Digii (Formerly Collpoll) — *SDE 1* (Aug 2025 – Present)
+#### 🏢 Digii (Formerly Collpoll) — *SDE 1* (Aug 2025 – April 2026)
 - 🚀 Built **exam management system features** supporting **30K+ users**
 - 📄 Designed **dynamic grade sheet templates** → reduced generation time by **25%**
 - 🤖 Developed **AI-based real-time proctoring system** → **95% accuracy**
